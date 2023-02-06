@@ -12,7 +12,7 @@
     
 }
 header{
-    background-color: black;
+    background-color: #737373;
     padding: 10px;
 }
 body{
@@ -78,7 +78,7 @@ p{
 }
 span{
     font-weight: bold;
-    color:black;
+    color:gray;
 
 }
 .span{
@@ -86,7 +86,7 @@ span{
 }
 
 footer{
-    background-color: black;
+    background-color: #737373;
     color: white;
     
 }
@@ -113,7 +113,7 @@ h6{
     color: black;
 }
 .pincha{
-    color: black;
+    color: gray;
     font-weight: bold;
     font-size: 30px;
 }
@@ -154,6 +154,7 @@ h6{
     padding: 10px;
     width: 650px;
     height: auto;
+    color: gray;
   
     border-radius: 15px;    
 }
